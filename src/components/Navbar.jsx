@@ -75,7 +75,7 @@ export default function Navbar() {
                 to="/internships"
                 className={`px-3 py-2 rounded-xl transition-all ${isActive("/internships") ? "text-emerald-600 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-500/10" : "hover:text-emerald-600 dark:hover:text-emerald-400"}`}
               >
-                Sample Internship
+                Internship
               </Link>
             </li>
             <li>
