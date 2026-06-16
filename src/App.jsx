@@ -16,7 +16,7 @@ import BootcampsDashboard from "./pages/BootcampsDashboard";
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-zinc-950 text-zinc-50 antialiased selection:bg-emerald-500/30">
+      <div className="min-h-screen bg-zinc-950 text-zinc-100 antialiased selection:bg-emerald-500/30">
         {/* Global Navbar */}
         <Navbar />
 
